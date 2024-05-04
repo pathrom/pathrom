@@ -7,7 +7,6 @@
 <h3 align="center">A passionate software developer from Spain es</h3>
 
 <br/>
-
 <div align="center">
  
  🔭 I’m currently working on **a AI chatbot** & **a blockchain bot**

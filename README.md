@@ -9,7 +9,7 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **a blockchain token bot** & **a launch of smartcontract memecoin in Solana** & **a App Android/iOS AI chatbot**
+ 🔭 I’m currently working on **a blockchain sniper token bot** & **a launch of smartcontract memecoin in Solana** & **a App Android/iOS AI chatbot**
  
  🌱 I’m currently learning **Astro, Devops**
 

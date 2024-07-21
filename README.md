@@ -7,6 +7,17 @@
 <h3 align="center">A passionate software developer from Spain/Andorra</h3>
 
 <br/>
+
+<!-- Portfolio -->
+<h2 align="center">
+	<a href="https://victorious-server-c20.notion.site/Portfolio-0de27efa09724e07a2a653acd228d2ca" target="_blank">
+		🚀 Portfolio 🚀
+	</a>
+	<img src="./left-arrow.gif" width="30" height="30" />
+</h2>
+
+<br/>
+
 <div align="center">
  
  🔭 I’m currently working on **a blockchain sniper token bot** & **a launch of smartcontract memecoin in Solana** & **a App Android/iOS AI chatbot**

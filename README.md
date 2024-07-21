@@ -6,14 +6,12 @@
 
 <h3 align="center">A passionate software developer from Spain/Andorra</h3>
 
-<br/>
-
 <!-- Portfolio -->
 <h2 align="center">
 	<a href="https://victorious-server-c20.notion.site/Portfolio-0de27efa09724e07a2a653acd228d2ca" target="_blank">
 		🚀 Portfolio 🚀
 	</a>
-	<img src="./left-arrow.gif" width="30" height="30" />
+	<img src="./left-arrow.gif" width="30" height="30" style="vertical-align: middle;margin-left:2em;" />
 </h2>
 
 <br/>

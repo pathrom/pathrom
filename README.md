@@ -11,7 +11,7 @@
 	<a href="https://victorious-server-c20.notion.site/Portfolio-0de27efa09724e07a2a653acd228d2ca" target="_blank">
 		🚀 Portfolio 🚀
 	</a>
-	<img src="./left-arrow.gif" width="30" height="30" style="vertical-align: middle;margin-left:2em;" />
+	<img src="./left-arrow.gif" width="30" height="30" />
 </h2>
 
 <br/>

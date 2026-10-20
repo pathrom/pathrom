@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Pathrøm. Daniel Patón, software engineer, Andorra.">
+<rect width="1200" height="360" fill="#eee9df"/>
+<path d="M36 54H1164" stroke="#bbb4a8"/>
+<g fill="#343631" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2"><text x="36" y="34">DANIEL PATÓN</text><text x="920" y="34">SOFTWARE ENGINEER</text></g>
+<text x="30" y="228" font-family="Georgia,Times New Roman,serif" font-size="164" letter-spacing="-9" fill="#282d29">Pathrøm<tspan fill="#bc5037">.</tspan></text>
+<g fill="none" stroke="#bc5037" stroke-width="3"><circle cx="1030" cy="164" r="64"/><path d="M975 233L1085 94" stroke-width="8"/><path d="M938 229L980 187L1006 210L1044 169L1108 229" stroke="#717969" stroke-width="2"/></g>
+<path d="M36 280H1164" stroke="#bbb4a8"/>
+<g fill="#555d52" font-family="Arial,Helvetica,sans-serif" font-size="19"><text x="36" y="319">From the interface to the infrastructure.</text><text x="960" y="319" font-size="14" letter-spacing="2">ANDORRA / AD</text></g>
+</svg>

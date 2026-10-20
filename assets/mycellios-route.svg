@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-label="Mycellios. Conceptual illustration of partitioned model stages, not a runtime screenshot.">
+<rect width="1100" height="240" fill="#e5e9de"/>
+<text x="30" y="36" fill="#58634d" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">01 / DISTRIBUTED COMPUTE</text>
+<text x="28" y="119" fill="#303b2c" font-family="Georgia,serif" font-size="65">Mycellios</text>
+<text x="32" y="162" fill="#58634d" font-family="Arial,sans-serif" font-size="19">One model. Multiple stages.</text>
+<text x="32" y="210" fill="#58634d" font-family="Arial,sans-serif" font-size="13">CONCEPTUAL MODEL / RESEARCH IN PROGRESS</text>
+<g fill="none" stroke="#87927b" stroke-width="1.5"><path d="M650 65H744V161H650Z"/><path d="M758 65H852V161H758Z"/><path d="M866 65H960V161H866Z"/><path d="M960 113H1034"/><path d="M1026 105L1034 113L1026 121"/></g>
+<g fill="#c9d2bc"><path d="M650 65H744V82H650Z"/><path d="M758 99H852V116H758Z"/><path d="M866 144H960V161H866Z"/></g>
+<g fill="#58634d" font-family="Arial,sans-serif" font-size="12"><text x="650" y="188">STAGE 01</text><text x="758" y="188">STAGE 02</text><text x="866" y="188">STAGE N</text></g></svg>

@@ -1,86 +1,14 @@
-<!-- Profile Header -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pathrom.pathrom" alt="Profile visitors" />
-</p>
-
-<h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&color=62D6FF&center=true&vCenter=true&width=660&height=70&duration=3500&lines=Hey+there!+👋;I'm+Daniel+Patón+(Dani);Full-Stack+Developer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&color=1F2937&center=true&vCenter=true&width=660&height=70&duration=3500&lines=Hey+there!+👋;I'm+Daniel+Patón+(Dani);Full-Stack+Developer" alt="Typing intro" />
-  </picture>
-</h1>
-
-<p align="center">
-  <strong>Full-stack engineer · Node.js · Angular · DevOps curious · Web3 tinkerer</strong><br/>
-  <a href="mailto:daniel.paton.lr@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/danielplr" target="_blank">LinkedIn</a> ·
-  <a href="https://portfolio.devaim.com" target="_blank">Portfolio</a>
-</p>
-
----
-
-## 🚀 What I’m working on
-- 🤖 Building **AI-powered apps** (chatbots and modular services)  
-- 🧱 Architecting **monorepos & microservices** (NestJS + Angular)  
-- 🌌 Exploring **Astro** and refining **DevOps practices**  
-
-💡 Got questions? Open a discussion: [**Public Q&A**](https://github.com/pathrom/pathrom/issues)
-
----
-
-## 🧰 Tech Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,npm,nest,angular,react,astro,express,html,css,tailwind" alt="frontend + backend stack" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,mongodb,postgres,redis,firebase,docker,git,github,linux,vscode,figma" alt="infra + tools stack" />
-</p>
-
-<details>
-  <summary><b>Development Principles</b></summary>
-
-- Clean Architecture: thin controllers → business logic in services → repositories for data  
-- Strong typing with TypeScript, shared DTOs and contracts  
-- CI/CD pipelines and GitOps by default  
-- Observability and monitoring from day one  
-</details>
-
----
-
-## 📌 Featured Projects
-- 🤖 **AI Chat App** – cross-platform mobile app with modular backend  
-- 🛠️ **Dev Templates** – reproducible monorepo setup with linting, formatting, pipelines  
-- 💱 **Crypto Utilities** – token bots and experimental Solana tools  
-
-*(Pinned repos and live demos coming soon…)*
-
----
-
-## 📊 GitHub Insights
-<p align="center">
-  <img width="420" alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathrom&layout=compact&langs_count=10&hide_border=true" />
-  <img width="420" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=pathrom&show_icons=true&hide_title=true&hide=prs,issues&hide_border=true" />
-</p>
-
-<!-- Optional snake animation (requires GitHub Action workflow) -->
-<p align="center">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pathrom/pathrom/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📬 Let’s Connect
-<p align="center">
-  <a href="mailto:daniel.paton.lr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/danielplr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio.devaim.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=fff" alt="Portfolio" />
-  </a>
-</p>
-
----
+<p><img src="assets/header.svg" alt="Pathrøm. Daniel Patón — Software Engineer, Andorra." width="1200"></p>
+<p><strong>Hi, I'm Dani.</strong> I build software, from the interface to the infrastructure.<br>Currently interested in applied AI, useful developer tools and decentralized systems.</p>
+<p><a href="mailto:daniel.paton.lr@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/danielplr">LinkedIn</a> · <a href="https://github.com/pathrom">GitHub</a></p>
+<h2>Selected work</h2>
+<h3><a href="https://github.com/Mycellios/mycellios">Mycellios</a> — distributed AI inference</h3>
+<p>A local-first platform exploring how GPUs on different computers can run a partitioned model through a coordinated, streaming inference route.</p>
+<p><img src="assets/mycellios-route.svg" alt="Conceptual illustration of partitioned model stages; not a benchmark or runtime screenshot" width="1100"></p>
+<p><strong>Focus:</strong> model partitioning, worker orchestration, streaming APIs and execution evidence.<br><strong>Status:</strong> in development. Multi-host performance has not yet been published. Blockchain settlement is a future extension; no public token has launched.</p>
+<p><a href="https://github.com/Mycellios/mycellios">Explore the project →</a></p>
+<h2>Engineering interests</h2>
+<ul><li><strong>Applied AI:</strong> useful integrations, automation and tools that connect models to software.</li><li><strong>Infrastructure:</strong> reproducible environments, CI/CD, observability and dependable services.</li><li><strong>Decentralized systems:</strong> distributed inference, smart contracts and verifiable execution records.</li></ul>
+<h2>Toolkit</h2>
+<p><strong>Build</strong> — TypeScript · Node.js · React · Angular<br><strong>Data &amp; operations</strong> — PostgreSQL · Docker · Linux · GitHub Actions<br><strong>Explore</strong> — AI inference · Ethereum · distributed systems</p>
+<hr><p>Have a concrete problem to solve? <a href="mailto:daniel.paton.lr@gmail.com">Let's talk.</a></p>
